@@ -9,12 +9,12 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-color: blueviolet;
-    background-image: url(https://images.pexels.com/photos/1251026/pexels-photo-1251026.jpeg?cs=srgb&dl=pexels-crusenho-agus-hennihuno-1251026.jpg&fm=jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(https://images.pexels.com/photos/1251026/pexels-photo-1251026.jpeg?cs=srgb&dl=pexels-crusenho-agus-hennihuno-1251026.jpg&fm=jpg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    color: antiquewhite;
 }
 
 ul {
