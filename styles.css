@@ -25,3 +25,16 @@ ul {
 .hero h1 {
     font-size: 3em;
 }
+.hero ul {
+    display: flex;
+    justify-content: space-evenly;
+}
+.hero button {
+    padding: 15px 30px;
+    border-color: white;
+    background-color:transparent
+;
+    color: antiquewhite;
+    border-radius: 8px;
+    font-size: large;
+}
